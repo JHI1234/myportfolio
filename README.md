@@ -37,5 +37,5 @@
 
 ## ✏️ Blog For Learning - <a href="https://jhi1234.github.io/">Here</a>
 
-## 📝 Portfolio Website - <a href="https://jhi1234.github.io/HTMLCSSHardCoding/">Here(Github)</a> or <a href="https://portfolio-sample-jhi1234.netlify.app">Here(Netlify)</a>
-[![image](./images/portfolio.png)](https://jhi1234.github.io/HTMLCSSHardCoding/)
+## 📝 Portfolio Website - <a href="https://jhi1234.github.io/portfolio//">Here(Github)</a> or <a href="https://jhi-portfolio.netlify.app/">Here(Netlify)</a>
+[![image](./assets/img/portfolio.png)](https://jhi1234.github.io/HTMLCSSHardCoding/)
