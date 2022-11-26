@@ -101,6 +101,14 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+header{
+  background-image: url(../assets/img/programming.png);
+  background-size: cover;
+  background-color: rgba(71, 60, 54, 0.75);;
+  /* background-color: rgba(255,255,255,0.2); */
+  background-blend-mode: color;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
