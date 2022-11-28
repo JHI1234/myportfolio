@@ -41,6 +41,7 @@
 ## ✏️ Blog For Learning - <a href="https://jhi1234.github.io/">Here</a>
 
 ## 📝 Portfolio Website - <a href="https://jhi1234.github.io/myportfolio//">Here(Github)</a> or <a href="https://jhi-portfolio.netlify.app/">Here(Netlify)</a>
+[![image](./assets/img/portfolio0.png)](https://jhi1234.github.io/myportfolio/)
 [![image](./assets/img/portfolio1.png)](https://jhi1234.github.io/myportfolio/)
 [![image](./assets/img/portfolio2.png)](https://jhi1234.github.io/myportfolio/)
 [![image](./assets/img/portfolio3.png)](https://jhi1234.github.io/myportfolio/)
