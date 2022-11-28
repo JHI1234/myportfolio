@@ -41,8 +41,8 @@
 ## ✏️ Blog For Learning - <a href="https://jhi1234.github.io/">Here</a>
 
 ## 📝 Portfolio Website - <a href="https://jhi1234.github.io/myportfolio//">Here(Github)</a> or <a href="https://jhi-portfolio.netlify.app/">Here(Netlify)</a>
-#### 강의 과제로 제작된 개인 포트폴리오 사이트입니다.
-#### 인적사항, 기술 스택, 경력, 진행 프로젝트 등을 나타내는 페이지를 제작하였습니다.
+##### 강의 과제로 제작된 개인 포트폴리오 사이트입니다.
+##### 인적사항, 기술 스택, 경력, 진행 프로젝트 등을 나타내는 페이지를 제작하였습니다.
 
 [![image](./assets/img/portfolio0.png)](https://jhi1234.github.io/myportfolio/)
 [![image](./assets/img/portfolio1.png)](https://jhi1234.github.io/myportfolio/)
