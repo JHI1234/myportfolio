@@ -53,4 +53,4 @@
 [![image](./assets/img/portfolio6.png)](https://jhi1234.github.io/myportfolio/)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19)
