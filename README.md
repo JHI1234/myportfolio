@@ -1,6 +1,8 @@
-# Welcome To My Portfolio Website!
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30))
 
+ Welcome To My Portfolio Website!
 
+![JHI1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHI1234&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=JHI1234&layout=compact&theme=dracula)
 
 ## 👩‍💻 Personal Info
@@ -41,10 +43,14 @@
 ## ✏️ Blog For Learning - <a href="https://jhi1234.github.io/">Here</a>
 
 ## 📝 Portfolio Website - <a href="https://jhi1234.github.io/myportfolio//">Here(Github)</a> or <a href="https://jhi-portfolio.netlify.app/">Here(Netlify)</a>
-##### 강의 과제로 제작된 개인 포트폴리오 사이트입니다.
-##### 인적사항, 기술 스택, 경력, 진행 프로젝트 등을 나타내는 페이지를 제작하였습니다.
+##### 강의 과제로 제작된 개인 포트폴리오 사이트입니다.<br>인적사항, 기술 스택, 경력, 진행 프로젝트 등을 나타내는 페이지를 제작하였습니다.
 
-[![image](./assets/img/portfolio0.png)](https://jhi1234.github.io/myportfolio/)
 [![image](./assets/img/portfolio1.png)](https://jhi1234.github.io/myportfolio/)
 [![image](./assets/img/portfolio2.png)](https://jhi1234.github.io/myportfolio/)
 [![image](./assets/img/portfolio3.png)](https://jhi1234.github.io/myportfolio/)
+[![image](./assets/img/portfolio4.png)](https://jhi1234.github.io/myportfolio/)
+[![image](./assets/img/portfolio5.png)](https://jhi1234.github.io/myportfolio/)
+[![image](./assets/img/portfolio6.png)](https://jhi1234.github.io/myportfolio/)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
