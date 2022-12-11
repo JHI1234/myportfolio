@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14))
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19))
 
 # Welcome To My Portfolio Website!
 
