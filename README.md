@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19))
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12))
 
 # Welcome To My Portfolio Website!
 
@@ -53,4 +53,4 @@
 [![image](./assets/img/portfolio6.png)](https://jhi1234.github.io/myportfolio/)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&section=footer)
