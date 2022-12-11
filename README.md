@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12))
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12)
 
-# Welcome To My Portfolio Website!
+# 🙋‍♀️ Welcome To My Portfolio Website!
 
 ![JHI1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHI1234&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=JHI1234&layout=compact&theme=dracula)
@@ -51,6 +51,7 @@
 [![image](./assets/img/portfolio4.png)](https://jhi1234.github.io/myportfolio/)
 [![image](./assets/img/portfolio5.png)](https://jhi1234.github.io/myportfolio/)
 [![image](./assets/img/portfolio6.png)](https://jhi1234.github.io/myportfolio/)
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&section=footer)
