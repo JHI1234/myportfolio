@@ -45,12 +45,12 @@
 ## 📝 Portfolio Website - <a href="https://jhi1234.github.io/myportfolio//">Here(Github)</a> or <a href="https://jhi-portfolio.netlify.app/">Here(Netlify)</a>
 ##### 강의 과제로 제작된 개인 포트폴리오 사이트입니다.<br>인적사항, 기술 스택, 경력, 진행 프로젝트 등을 나타내는 페이지를 제작하였습니다.
 
-[![image](./assets/img/portfolio1.png)](https://jhi1234.github.io/myportfolio/)
-[![image](./assets/img/portfolio2.png)](https://jhi1234.github.io/myportfolio/)
-[![image](./assets/img/portfolio3.png)](https://jhi1234.github.io/myportfolio/)
-[![image](./assets/img/portfolio4.png)](https://jhi1234.github.io/myportfolio/)
-[![image](./assets/img/portfolio5.png)](https://jhi1234.github.io/myportfolio/)
-[![image](./assets/img/portfolio6.png)](https://jhi1234.github.io/myportfolio/)
+[![image](./assets/img/port1.png)](https://jhi1234.github.io/myportfolio/)
+[![image](./assets/img/port2.png)](https://jhi1234.github.io/myportfolio/)
+[![image](./assets/img/port3.png)](https://jhi1234.github.io/myportfolio/)
+[![image](./assets/img/port4.png)](https://jhi1234.github.io/myportfolio/)
+[![image](./assets/img/port5.png)](https://jhi1234.github.io/myportfolio/)
+[![image](./assets/img/port6.png)](https://jhi1234.github.io/myportfolio/)
 
 
 
