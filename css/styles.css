@@ -11647,10 +11647,9 @@ th{
 }
 th, td{
   font-size: .9rem;
-  padding-bottom: 15px;
 }
 #myname td{
-  padding-bottom:30px;
+  padding-bottom: 15px;
 }
 .aboutlist{
   width: 100%;
